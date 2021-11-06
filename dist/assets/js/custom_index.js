@@ -1,0 +1,1 @@
+window.location.href = '../dist/authentication/sign-up/basic.html';
