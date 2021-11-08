@@ -13,6 +13,7 @@ var KTCreateAccount = function () {
 
 	// Variables
 	var stepperObj;
+	var stepperStepNumber;
 	var validations = [];
 
 	// Private Functions
